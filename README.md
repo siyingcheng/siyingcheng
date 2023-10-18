@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simon·Si (Si Yingcheng)
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning SpringBoot
+- 🌱 I’m currently working on my demo project that is an application build by Springboot3 and Vue3 so than I can verify testing techniques on this project
 - 💞️ I’m looking to collaborate on:
   - Automation testing
   - Develop testing
