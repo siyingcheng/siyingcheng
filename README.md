@@ -6,7 +6,7 @@
   - Develop testing
 - 📫 How to reach me: 
   - Email: siyingcheng@126.com
-  - QQ: 283736566
+  - QQ or WeChat: 283736566
 
 <!---
 siyingcheng/siyingcheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
