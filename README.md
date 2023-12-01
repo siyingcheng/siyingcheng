@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simon·Si (Si Yingcheng)
-- 👀 I’m interested in Java
+- 👀 I am keenly interested in learning more about the latest advancements in automation testing technology.
 - 🌱 I'm currently working on my demo project, which is an application built using Spring Boot 3 and Vue 3. The purpose of this project is to verify testing techniques.
 - 💞️ I’m looking to collaborate on:
   - Automation testing
